@@ -1,1 +1,1 @@
-    Image-Search
+Image-Search Engine Using HTML, CSS, and javascript.
